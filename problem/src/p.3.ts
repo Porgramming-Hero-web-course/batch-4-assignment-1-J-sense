@@ -9,5 +9,5 @@
         
       }
       
-      console.log(countWordOccurrences("The king is back to the game", "the")); 
+      console.log(countWordOccurrences("TypeScript is great. I love TypeScript!", "typescript")); 
     }      
